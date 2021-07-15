@@ -1,1 +1,1 @@
-"# Hurst" 
+# Hurst
